@@ -6,7 +6,7 @@ Prometheus ist eine 2-Layer PCB-Fräse (PCB = Printed Circuit Board). Angesteuer
 ##Installation
 ProCAM Download: http://www.zippyrobotics.com/download
 
-##ProCAM installieren
+## ProCAM installieren
 Nach dem Download sind folgende Schritte auszuführen:
 1. Den Ordner C:\Program Files (x86)\Zippy Robotics erstellen,
 2. die Download-Dateien entpacken und in den Ordner kopieren,
@@ -16,7 +16,7 @@ Nach dem Download sind folgende Schritte auszuführen:
 ![procam1](PrometeusPIC\procam1.png)
 Die ProCAM Software by Zippy Robotics
 
-##KiCad Checkliste
+## KiCad Checkliste
 In KiCad folgende Schritte ausführen:
 [ ] Die max Platinengröße: 160 x 100
 [ ] Große Pads verwenden (Empfehlung 3mm)
@@ -44,7 +44,7 @@ In KiCad die Drilldatei Einstellungen anpassen
 Änderung in der Drilldatei (Das Leerzeichen löschen - ;FORMAT)
 ![procam6](D:\Nextcoud-khf\Markdown-Github\PrometeusPIC\procam6.png)
 
-##ProCAM Checkliste
+## ProCAM Checkliste
 
 In ProCAM folgende Schritte ausführen:
 [ ] Die Top-Copper, Drill- und Cut out-Datei importieren
@@ -53,7 +53,7 @@ In ProCAM folgende Schritte ausführen:
 [ ]  Die Platine mit doppelseitigen Klebeband (4 Reihen) fixieren
 [ ]  Die Elektrische Verbindung zwischen Platine und der Messingleiste herstellen (Krokodilklemme)
 
-##Top Copper:
+## Top Copper:
 [ ]  Den .005 in (.130mm) 15 deg. mill Fräser einspannen (blau 5-mill 15°)
 [ ]  Die Knuppel zum spannen nach links schieben
 [ ]  Das Kugellager von der Frässpitze aus aufschieben
@@ -62,7 +62,7 @@ In ProCAM folgende Schritte ausführen:
 [ ]  Die Platinenoberfläche mit Öl benetzen
 [ ]  Den Fräsvorgang starten
 
-##Drill:
+## Drill:
 [ ]  Den Bohrer für die Bohrlöcher wechseln (lila 0,85mm)
 [ ]  Die Elektrische Verbindung zwischen Platine und der Messingleiste herstellen
 [ ]  Den Knuppel zum spannen nach links schieben
@@ -71,7 +71,7 @@ In ProCAM folgende Schritte ausführen:
 [ ]  Den Knuppel nach rechts schieben und festen Sitz kontrollieren
 [ ]  Den Bohrvorgang starten
 
-##Cut out:
+## Cut out:
 [ ]  Den Fräser für die Edge cut wählen (rot 0.0315" Router - Square End Mill)
 [ ]  Die Elektrische Verbindung zwischen Platine und Messingleiste herstellen
 [ ]  Den Knuppel zum spannen nach links schieben
