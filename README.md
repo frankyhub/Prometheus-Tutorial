@@ -25,10 +25,12 @@ Inhaltsverzeichnis
 ## Einleitung
 Prometheus ist eine 2-Layer PCB-Fräse (PCB = Printed Circuit Board). Angesteuert wird die PCB-Fräse mit ProCAM von Zippy Robotics. Die Windows-Software steht auf der Herstellerseite zippyrobotics.com zum Download zur Verfügung. Das PCB-Design wird z. B. mit KiCad erstellt und die Layer in ProCAM importiert. In ProCAM werden auch alle Parameter wie Fräser- und Bohrerdurchmesser oder die Anzahl der Fräs-Durchgänge festgelegt.
 
+----------
 
 ## Installation
 ProCAM Download: http://www.zippyrobotics.com/download
 
+----------
 
 ## ProCAM installieren
 Nach dem Download sind folgende Schritte auszuführen:
@@ -42,6 +44,7 @@ Nach dem Download sind folgende Schritte auszuführen:
 
 Die ProCAM Software by Zippy Robotics
 
+----------
 
 ## KiCad Checkliste
 In KiCad folgende Schritte ausführen:
@@ -63,7 +66,7 @@ In KiCad folgende Schritte ausführen:
 
 [ ] Das Leerzeichen aus der DRL-Datei löschen
 
-
+----------
 
 In KiCad den Offset für Bohrungen links unten einfügen
 
@@ -79,6 +82,7 @@ In KiCad die Drilldatei Einstellungen anpassen
 Änderung in der Drilldatei (Das Leerzeichen löschen - ;FORMAT)
 ![procam6](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam6.png)
 
+----------
 
 ## ProCAM Checkliste
 
@@ -93,6 +97,7 @@ In ProCAM folgende Schritte ausführen:
 
 [ ]  Die Elektrische Verbindung zwischen Platine und der Messingleiste herstellen (Krokodilklemme)
 
+----------
 
 ## Top Copper:
 [ ]  Den .005 in (.130mm) 15 deg. mill Fräser einspannen (blau 5-mill 15°)
@@ -109,6 +114,7 @@ In ProCAM folgende Schritte ausführen:
 
 [ ]  Den Fräsvorgang starten
 
+----------
 
 ## Drill:
 [ ]  Den Bohrer für die Bohrlöcher wechseln (lila 0,85mm)
@@ -125,6 +131,7 @@ In ProCAM folgende Schritte ausführen:
 
 [ ]  Den Bohrvorgang starten
 
+----------
 
 ## Cut out:
 [ ]  Den Fräser für die Edge cut wählen (rot 0.0315" Router - Square End Mill)
@@ -145,7 +152,7 @@ In ProCAM folgende Schritte ausführen:
 
 [ ]  Den Arbeitsplatz aufräumen
 
-
+----------
 
 Prometheus Fräser und Bohrer
 ![procam9](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam9.png)
