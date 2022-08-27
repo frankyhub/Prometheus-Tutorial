@@ -1,6 +1,6 @@
 # Prometheus Toturial
 
-Auf der Seite [KiCad Checkliste](/##KiCad Checkliste/) gibt es weitere Informationen.
+Auf der Seite ![KiCad Checkliste](/##KiCad Checkliste/) gibt es weitere Informationen.
 
 
 ## Einleitung
