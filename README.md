@@ -121,7 +121,6 @@ Prometheus Fräser und Bohrer
 
 ![procam9](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam9.png)
 
-D:\Nextcoud-khf\Markdown-Github\PrometeusPIC\procam9.png)
 ![procam10](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam10.png)
 
 Die Startseite von ProCAM
