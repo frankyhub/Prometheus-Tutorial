@@ -36,7 +36,7 @@ In KiCad den Offset für Bohrungen links unten einfügen
 
 In KiCad die Plotter Einstellungen anpassen
 
-![procam4](D:\Nextcoud-khf\Markdown-Github\PrometeusPIC\procam4.png)
+![procam4](\PrometeusPIC\procam4.png)
 
 In KiCad die Drilldatei Einstellungen anpassen
 ![procam5](D:\Nextcoud-khf\Markdown-Github\PrometeusPIC\procam5.png)
