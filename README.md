@@ -14,6 +14,7 @@ Nach dem Download sind folgende Schritte auszuführen:
 4. Auf der Herstellerseite stehen auch Hilfe-Videos zur Verfügung
 
 ![procam1](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam1.png)
+
 Die ProCAM Software by Zippy Robotics
 
 ## KiCad Checkliste
@@ -32,17 +33,17 @@ In KiCad folgende Schritte ausführen:
 
 In KiCad den Offset für Bohrungen links unten einfügen
 
-![procam2](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam1.png)
+![procam2](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam2.png)
 
 In KiCad die Plotter Einstellungen anpassen
 
-![procam4](\PrometeusPIC\procam4.png)
+![procam4](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam4.png)
 
 In KiCad die Drilldatei Einstellungen anpassen
-![procam5](D:\Nextcoud-khf\Markdown-Github\PrometeusPIC\procam5.png)
+![procam5](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam5.png)
 
 Änderung in der Drilldatei (Das Leerzeichen löschen - ;FORMAT)
-![procam6](D:\Nextcoud-khf\Markdown-Github\PrometeusPIC\procam6.png)
+![procam6](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam6.png)
 
 ## ProCAM Checkliste
 
