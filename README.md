@@ -13,7 +13,7 @@ Nach dem Download sind folgende Schritte auszuführen:
 3. die EXE-Datei starten.
 4. Auf der Herstellerseite stehen auch Hilfe-Videos zur Verfügung
 
-![procam1](PrometeusPIC\procam1.png)
+![procam1](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam1.png)
 Die ProCAM Software by Zippy Robotics
 
 ## KiCad Checkliste
@@ -32,7 +32,7 @@ In KiCad folgende Schritte ausführen:
 
 In KiCad den Offset für Bohrungen links unten einfügen
 
-![procam2](D:\Nextcoud-khf\Markdown-Github\PrometeusPIC\procam2.png)
+![procam2](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam1.png)
 
 In KiCad die Plotter Einstellungen anpassen
 
