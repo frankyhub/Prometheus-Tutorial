@@ -14,7 +14,10 @@ Inhaltsverzeichnis
 
 [Top Copper](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#top-copper)
 
-[Drill](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#cut-out)
+[Drill](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#drill)
+
+[Cut out](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#cut-out)
+
 
 
 
