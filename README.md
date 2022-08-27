@@ -66,7 +66,6 @@ In KiCad folgende Schritte ausführen:
 
 [ ] Das Leerzeichen aus der DRL-Datei löschen
 
-----------
 
 In KiCad den Offset für Bohrungen links unten einfügen
 
