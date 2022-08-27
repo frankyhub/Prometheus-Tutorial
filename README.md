@@ -13,7 +13,7 @@ Nach dem Download sind folgende Schritte auszuführen:
 3. die EXE-Datei starten.
 4. Auf der Herstellerseite stehen auch Hilfe-Videos zur Verfügung
 
-![procam1](D:\Nextcoud-khf\Markdown-Github\PrometeusPIC\procam1.png)
+![procam1](\PrometeusPIC\procam1.png)
 Die ProCAM Software by Zippy Robotics
 
 ##KiCad Checkliste
