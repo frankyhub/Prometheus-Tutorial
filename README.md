@@ -4,9 +4,9 @@
 
 [Installation](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#installation)
 
-[ProCAM installieren](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#ProCAM installieren)
+[ProCAM installieren](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#procam-installieren))
 
-[KiCad Checkliste](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#KiCad Checkliste)
+[KiCad Checkliste](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#kicad checkliste)
 
 [ProCAM Checkliste](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#ProCAM Checkliste)
 
