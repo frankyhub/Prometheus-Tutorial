@@ -4,21 +4,21 @@
 
 Inhaltsverzeichnis
 
-[Einleitung](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#einleitung)
+[Einleitung](/README.md#einleitung)
 
-[Installation](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#installation)
+[Installation](/README.md#installation)
 
-[ProCAM installieren](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#procam-installieren)
+[ProCAM installieren](/README.md#procam-installieren)
 
-[KiCad Checkliste](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#kicad-checkliste)
+[KiCad Checkliste](/README.md#kicad-checkliste)
 
-[ProCAM Checkliste](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#procam-checkliste)
+[ProCAM Checkliste](/README.md#procam-checkliste)
 
-[Top Copper](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#top-copper)
+[Top Copper](/README.md#top-copper)
 
-[Drill](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#drill)
+[Drill](/README.md#drill)
 
-[Cut out](https://github.com/frankyhub/Prometheus-Toturial/blob/main/README.md#cut-out)
+[Cut out](/README.md#cut-out)
 
 
 ----------
@@ -42,7 +42,7 @@ Nach dem Download sind folgende Schritte auszuführen:
 4. Auf der Herstellerseite stehen auch Hilfe-Videos zur Verfügung
 
 
-![procam1](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam1.png)
+![procam1](/PrometeusPIC/procam1.png)
 
 Die ProCAM Software by Zippy Robotics
 
@@ -71,17 +71,17 @@ In KiCad folgende Schritte ausführen:
 
 In KiCad den Offset für Bohrungen links unten einfügen
 
-![procam2](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam2.png)
+![procam2](/PrometeusPIC/procam2.png)
 
 In KiCad die Plotter Einstellungen anpassen
 
-![procam4](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam4.png)
+![procam4](/PrometeusPIC/procam4.png)
 
 In KiCad die Drilldatei Einstellungen anpassen
-![procam5](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam5.png)
+![procam5](/PrometeusPIC/procam5.png)
 
 Änderung in der Drilldatei (Das Leerzeichen löschen - ;FORMAT)
-![procam6](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam6.png)
+![procam6](/PrometeusPIC/procam6.png)
 
 ----------
 
@@ -156,12 +156,12 @@ In ProCAM folgende Schritte ausführen:
 ----------
 
 Prometheus Fräser und Bohrer
-![procam9](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam9.png)
+![procam9](/PrometeusPIC/procam9.png)
 
-![procam10](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam10.png)
+![procam10](/PrometeusPIC/procam10.png)
 
 Die Startseite von ProCAM
-![procam11](https://github.com/frankyhub/Prometheus-Toturial/blob/main/PrometeusPIC/procam11.png)
+![procam11](/PrometeusPIC/procam11.png)
 
 ---
 
