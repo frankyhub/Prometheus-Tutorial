@@ -1,6 +1,6 @@
 <a name="oben"></a>
 
-# Prometheus Toturial
+# Prometheus Tutorial
 
 Inhaltsverzeichnis
 
