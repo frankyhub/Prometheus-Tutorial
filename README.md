@@ -53,7 +53,7 @@ Nach dem Download sind folgende Schritte auszuführen:
 3. die EXE-Datei starten.
 4. Auf der Herstellerseite stehen auch Hilfe-Videos zur Verfügung
 
-<img src="pic/procam1.png" width="500"> 
+<img src="PrometeusPIC/procam1.png" width="500"> 
 <br> <br>
 
 
@@ -84,25 +84,25 @@ In KiCad folgende Schritte ausführen:
 
 In KiCad den Offset für Bohrungen links unten einfügen
 
-<img src="pic/procam2.png" width="500"> 
+<img src="PrometeusPIC/procam2.png" width="500"> 
 <br> <br>
 
 In KiCad die Plotter Einstellungen anpassen
 
-<img src="pic/procam3.png" width="500"> 
+<img src="PrometeusPIC/procam3.png" width="500"> 
 <br> <br>
 
-<img src="pic/procam4.png" width="500"> 
+<img src="PrometeusPIC/procam4.png" width="500"> 
 <br> <br>
 
 In KiCad die Drilldatei Einstellungen anpassen
 
-<img src="pic/procam5.png" width="500"> 
+<img src="PrometeusPIC/procam5.png" width="500"> 
 <br> <br>
 
 Änderung in der Drilldatei (Das Leerzeichen löschen - ;FORMAT)
 
-<img src="pic/procam6.png" width="500"> 
+<img src="PrometeusPIC/procam6.png" width="500"> 
 <br> <br>
 
 ----------
@@ -179,15 +179,15 @@ In ProCAM folgende Schritte ausführen:
 
 Prometheus Fräser und Bohrer
 
-<img src="pic/procam9.png" width="500"> 
+<img src="PrometeusPIC/procam9.png" width="500"> 
 <br> <br>
 
-<img src="pic/procam10.png" width="500"> 
+<img src="PrometeusPIC/procam10.png" width="500"> 
 <br> <br>
 
 Die Startseite von ProCAM
 
-<img src="pic/procam11.png" width="500"> 
+<img src="PrometeusPIC/procam11.png" width="500"> 
 <br> <br>
 
 ---
