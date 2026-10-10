@@ -5,8 +5,9 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Prometheus-Tutorial/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Prometheus-Tutorial/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Prometheus-Tutorial/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2022-blue)|<a href="https://github.com/frankyhub/Prometheus-Tutorial/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Prometheus-Tutorial)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Prometheus-Tutorial)|<a href="https://github.com/frankyhub/Prometheus-Tutorial/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Prometheus-Tutorial)|<a href="https://github.com/frankyhub/Prometheus-Tutorial/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Prometheus-Tutorial)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Prometheus-Tutorial)| <a href="https://github.com/frankyhub/Prometheus-Tutorial/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Prometheus-Tutorial/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/Prometheus-Tutorial/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Prometheus-Tutorial)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Prometheus-Tutorial)|<a href="https://github.com/frankyhub/Prometheus-Tutorial/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Prometheus-Tutorial)|<a href="https://github.com/frankyhub/Prometheus-Tutorial/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Prometheus-Tutorial)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2022-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Prometheus-Tutorial)| <a href="https://github.com/frankyhub/Prometheus-Tutorial/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Prometheus-Tutorial/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
 </div>
 
 
@@ -52,8 +53,9 @@ Nach dem Download sind folgende Schritte auszuführen:
 3. die EXE-Datei starten.
 4. Auf der Herstellerseite stehen auch Hilfe-Videos zur Verfügung
 
+<img src="pic/procam1.png" width="500"> 
+<br> <br>
 
-![procam1](/PrometeusPIC/procam1.png)
 
 Die ProCAM Software by Zippy Robotics
 
@@ -82,17 +84,26 @@ In KiCad folgende Schritte ausführen:
 
 In KiCad den Offset für Bohrungen links unten einfügen
 
-![procam2](/PrometeusPIC/procam2.png)
+<img src="pic/procam2.png" width="500"> 
+<br> <br>
 
 In KiCad die Plotter Einstellungen anpassen
 
-![procam4](/PrometeusPIC/procam4.png)
+<img src="pic/procam3.png" width="500"> 
+<br> <br>
+
+<img src="pic/procam4.png" width="500"> 
+<br> <br>
 
 In KiCad die Drilldatei Einstellungen anpassen
-![procam5](/PrometeusPIC/procam5.png)
+
+<img src="pic/procam5.png" width="500"> 
+<br> <br>
 
 Änderung in der Drilldatei (Das Leerzeichen löschen - ;FORMAT)
-![procam6](/PrometeusPIC/procam6.png)
+
+<img src="pic/procam6.png" width="500"> 
+<br> <br>
 
 ----------
 
@@ -167,12 +178,17 @@ In ProCAM folgende Schritte ausführen:
 ----------
 
 Prometheus Fräser und Bohrer
-![procam9](/PrometeusPIC/procam9.png)
 
-![procam10](/PrometeusPIC/procam10.png)
+<img src="pic/procam9.png" width="500"> 
+<br> <br>
+
+<img src="pic/procam10.png" width="500"> 
+<br> <br>
 
 Die Startseite von ProCAM
-![procam11](/PrometeusPIC/procam11.png)
+
+<img src="pic/procam11.png" width="500"> 
+<br> <br>
 
 ---
 
